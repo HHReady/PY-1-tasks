@@ -67,7 +67,7 @@ STATES_CAPITALS = {
 }
 
 
-def capital_of_Idaho():
+def capital_of_idaho():
     # Your code here
     pass
 
